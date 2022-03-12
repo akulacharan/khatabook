@@ -17,7 +17,7 @@ heroku==0.1.4
 idna==2.8
 oauthlib==3.0.1
 pep8==1.7.1
-pillow==7.1.2
+pillow==9.0.1
 psycopg2==2.8.5
 pycodestyle==2.5.0
 PyJWT==1.7.1
